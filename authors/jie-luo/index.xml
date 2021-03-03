@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jie Luo | Rui Xing</title>
+    <link>https://mr-ruirui.github.io/authors/jie-luo/</link>
+      <atom:link href="https://mr-ruirui.github.io/authors/jie-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jie Luo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jie Luo</title>
+      <link>https://mr-ruirui.github.io/authors/jie-luo/</link>
+    </image>
+    
+    <item>
+      <title>BioRel: A Large-Scale Dataset for Biomedical Relation Extraction</title>
+      <link>https://mr-ruirui.github.io/publication/bibm2019/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mr-ruirui.github.io/publication/bibm2019/</guid>
+      <description>&lt;p&gt;2019 IEEE International Conference on Bioinformatics and Biomedicine WorkShop on Biological Ontologies and Knowledge Bases&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distant Supervised Relation Extraction with Separate Head-Tail CNN</title>
+      <link>https://mr-ruirui.github.io/publication/emnlp2019/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mr-ruirui.github.io/publication/emnlp2019/</guid>
+      <description>&lt;p&gt;EMNLP 2019&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
